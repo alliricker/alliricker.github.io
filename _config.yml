@@ -1,11 +1,11 @@
 # Site settings
 author: Allison Ricker
-title: 
+title: Alli Ricker
 header-img: img/home-bg.png
 email: alliricker@gmail.com
 copyright_name: Allison Ricker
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineering Flex
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alliricker
